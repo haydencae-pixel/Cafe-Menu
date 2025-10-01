@@ -1,7 +1,7 @@
-# Cafe Menu
+# Café Menu ☕
 
-This is my Cafe Menu project for the FreeCodeCamp Responsive Web Design course.  
-It demonstrates basic HTML, CSS, and responsive design skills.
+This project was built as part of [freeCodeCamp's Responsive Web Design certification](https://www.freecodecamp.org/learn/).  
+The goal was to learn and apply **basic CSS styling** by building a café menu. I practiced working with text styling, font families, and layout structure.
 
 ## Live Demo
 
